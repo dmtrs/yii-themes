@@ -15,9 +15,9 @@
 
 <body>
 <div class="main" >
-	<div id="header">
+	<div class="header">
         <div class="header_resize" >
-    		<div id="logo">
+    		<div class="logo">
                 <h1><small><?php echo CHtml::encode(Yii::app()->name); ?></small></h1>
             </div>       
             <div class="menu_nav">

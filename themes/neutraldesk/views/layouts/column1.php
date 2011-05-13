@@ -1,7 +1,7 @@
 <?php $this->beginContent('//layouts/main'); ?>
-<div class="content">
-    <div class="content_resize">
-        <div class="mainbar">
+<div class="body">
+    <div class="body_resize">
+        <div class="left">
 			<?php echo $content; ?>
 		</div><!-- content -->
     </div>
