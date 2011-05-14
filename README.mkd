@@ -1,7 +1,26 @@
 yii-themes
 ==========
 A collection of themes for yii powered web applications 
+Author: Dimitrios Mengidis <tydeas.dr at gmail.com>
 
+###Details 
+From the tree structure of the repo __css, images and js copyrights does not belong to the author.__ 
+License of this files is in each themes <code>./css/*theme-name*/readme-license-hotwebsitetemplates.txt</code> 
+as the source of the theme is in the <code>./source/*theme-name*.zip</code>
+
+###Install
+Root of the repo tree structure is the root dir of your web application.
+The availabel themes are under the <code>themes</code> folder.
+In your <code>protected/config/main.php</code> add
+
+~~~
+<?php return array(
+    ...
+    'name'=>'Your application name',
+    'theme'=>'theme-name',
+    ...
+?>
 ###History
-- [devision theme](http://www.free-css.com/free-css-templates/page1/devision.php), Marketing, Bussiness. Creative Commons License
-- [neutraldesk theme](http://www.free-css.com/free-css-templates/page2/neutraldesk.php), Personal, Blog. Creative Commons License  
+- [devision theme](http://www.free-css.com/free-css-templates/page1/devision.php), Marketing, Bussiness. Creative Commons License 3.0
+- [neutraldesk theme](http://www.free-css.com/free-css-templates/page2/neutraldesk.php), Personal, Blog. Creative Commons License  3.0
+- [winglobal theme](http://www.free-css.com/free-css-templates/page1/winglobal.php), Personal, Bussiness, Blog. Creative Commons License 3.0
