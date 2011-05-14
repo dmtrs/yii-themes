@@ -20,6 +20,7 @@ In your <code>protected/config/main.php</code> add
     'theme'=>'theme-name',
     ...
 ?>
+~~~
 ###History
 - [devision theme](http://www.free-css.com/free-css-templates/page1/devision.php), Marketing, Bussiness. Creative Commons License 3.0
 - [neutraldesk theme](http://www.free-css.com/free-css-templates/page2/neutraldesk.php), Personal, Blog. Creative Commons License  3.0
