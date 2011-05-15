@@ -247,62 +247,62 @@ h1 small {
 	color:#71b1e0;
 	font:bold 12px Georgia, "Times New Roman", Times, serif;
 }
-.FBG_resize {
+.fbg_resize {
 	margin:0 auto;
 	padding:10px 0;
 	width:930px;
 }
-.FBG {
+.fbg {
 	margin:0;
 	padding:0;
 	background:#fcfff4 url(images/fbg_bg.gif) top repeat-x;
 }
-.FBG img {
+.fbg img {
 	float:left;
 	margin:5px 10px 5px 0;
 	padding:0;
 }
-.FBG h2 {
+.fbg h2 {
 	color:#787878;
 	font:normal 26px Arial, Helvetica, sans-serif;
 	padding:3px 0;
 	margin:5px 0 15px 0;
 }
-.FBG p {
+.fbg p {
 	color:#787878;
 	font:normal 12px Arial, Helvetica, sans-serif;
 	padding:5px 0;
 	margin:0;
 	line-height:1.8em;
 }
-.FBG a {
+.fbg a {
 	color:#ea7d1b;
 	text-decoration:none;
 	font:bold 12px Arial, Helvetica, sans-serif;
 }
-.FBG ul {
+.fbg ul {
 	width:260px;
 	list-style:none;
 	float:left;
 	padding:0;
 	margin:10px 0;
 }
-.FBG li {
+.fbg li {
 	background:#fff;
 	border:1px solid #d2d3d2;
 	padding:2px 1px 2px 10px;
 	margin:3px 0;
 }
-.FBG li a {
+.fbg li a {
 	color:#71b1e0;
 	font:normal 12px Arial, Helvetica, sans-serif;
 	text-decoration:none;
 }
-.FBG li a:hover {
+.fbg li a:hover {
 	color:#464646;
 	text-decoration:none;
 }
-.FBG .blok {
+.fbg .blok {
 	width:270px;
 	float:left;
 	padding:5px 20px;
